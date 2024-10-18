@@ -79,6 +79,8 @@ If I have missed anything or if you have a download link that is not listed here
 | Device | Firmware Version | Download Link | Note | Version |
 | ------ | ---------------- | ------------- | ----- | ------- |
 | ALL | 4.1.414.34909 | | The download links for the StorCenter devices are the same as for the LenovoEMC² devices | Both |
+| IX2 | 4.1.102.29716 h4c-4.1.102.29716.zip  [Download](https://download.lenovo.com/nasupdate/asgimage/h4c-4.1.102.29716.zip) | IX2 (non DL) | Desktop |
+| IX2 | 4.1.114.33421 ix2-ng-4.1.114.33421.zip [Download](https://download.lenovo.com/nasupdate/asgimage/ix2-ng-4.1.114.33421.zip) | IX2  (non DL) | Desktop |
 
 </div>
 
